@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a24ca27b-605b-4f06-ba54-b67d7e695d9f" width="300" alt="Design Patterns Cover"/>
+  <img width="300" height="632" alt="gof" src="https://github.com/user-attachments/assets/074875a8-2531-49a1-a6f4-4a8eafdc388b" />
 </p>
 
 <hr/>
