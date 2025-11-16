@@ -66,7 +66,7 @@
 
 > Each pattern directory contains:
 > - A concise, annotated description
-> - Animated UML or explanatory diagram (where possible)
+> - UML Diagram 
 > - Commented Java example
 > - Key use cases, pros & cons
 
