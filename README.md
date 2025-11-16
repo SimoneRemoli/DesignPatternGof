@@ -1,10 +1,12 @@
 <h1 align="center">
   Design Patterns Gallery
-  <img src="https://github.com/user-attachments/assets/757db61e-2042-473a-95a8-c6c2fc870a2f" width="30px"/>
+  <img src="https://github.com/user-attachments/assets/757db61e-2042-473a-95a8-c6c2fc870a2f" width="34px"/>
 </h1>
 
 <p align="center">
-  <strong>A curated showcase of classic software design patterns.</strong>
+  <strong>A curated showcase of classic software design patterns</strong>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=800&color=41B883&vCenter=true&width=435&lines=Clean+implementations;+Real-world+examples;+Quick+concepts+and+UMLs;Level+up+your+OO+design!" alt="Dynamic Typing Text Animation"/>
   <br>
   Real-world, commented code samples and concise explanations.<br>
   <br>
@@ -15,15 +17,15 @@
 </p>
 
 <p align="center">
-  <img width="300" height="1000" alt="gof" src="https://github.com/user-attachments/assets/074875a8-2531-49a1-a6f4-4a8eafdc388b" />
+  <img width="330" style="border-radius:30px; box-shadow: 0px 5px 32px #5552;" alt="gof gallery" src="https://github.com/user-attachments/assets/074875a8-2531-49a1-a6f4-4a8eafdc388b" />
 </p>
 
-<hr/>
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #41b883, #f7df1e, #3572A5)" />
 
 <!-- NAVIGATION -->
 <p align="center">
   <em>
-    Explore essential object-oriented design patterns, complete with diagrams and example implementations.<br>
+    Explore essential object-oriented design patterns, complete with diagrams, animated explainers and example implementations.<br>
     <sub>This collection is meant both as a quick reference and as sample code for hands-on learners.</sub>
   </em>
 </p>
@@ -31,39 +33,42 @@
 
 ## 📖 Patterns Included
 
-| Pattern Name         | Folder / Link                           | Brief Description                         |
-|----------------------|-----------------------------------------|-------------------------------------------|
-| **Singleton**        | [Singleton](./Singleton)                | Ensure a class has only one instance.     |
-| **Factory Method**   | [Factory Method](./FactoryMethod)        | Defer instantiation to sub-classes.       |
-| **Abstract Factory** | [Abstract Factory](./AbstractFactory)    | Create families of related objects.       |
-| **Adapter**          | [Adapter](./Adapter)                     | Convert one interface to another.         |
-| **Decorator**        | [Decorator](./Decorator)                 | Add behaviors to objects dynamically.     |
-| **Observer**         | [Observer](./Observer)                   | Notify objects automatically of changes.  |
-| **Facade**           | [Facade](./Facade)                       | Simplify complex subsystems.              |
+| Pattern              | Folder / Link                            | Brief Description                           | Demo/UML Visual |
+|----------------------|------------------------------------------|---------------------------------------------|-----------------|
+| **Singleton**        | [Singleton](./Singleton)                 | Ensure a class has only one instance.       | ![Singleton UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/singleton/singleton-java-example.png) |
+| **Factory Method**   | [FactoryMethod](./FactoryMethod)         | Defer instantiation to subclasses.          | ![Factory UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/factory-method/factory-method-java-example.png) |
+| **Abstract Factory** | [AbstractFactory](./AbstractFactory)     | Create families of related objects.         | ![Abstract Factory UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/abstract-factory/abstract-factory-java-example.png) |
+| **Adapter**          | [Adapter](./Adapter)                     | Convert one interface to another.           | ![Adapter UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/adapter/adapter-java-example.png) |
+| **Decorator**        | [Decorator](./Decorator)                 | Add behaviors to objects dynamically.       | ![Decorator UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/decorator/decorator-java-example.png) |
+| **Observer**         | [Observer](./Observer)                   | Notify objects automatically of changes.    | ![Observer UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/observer/observer-java-example.png) |
+| **Facade**           | [Facade](./Facade)                       | Simplify complex subsystems.                | ![Facade UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/facade/facade-java-example.png) |
 
 > Each pattern directory contains:
-> - A short, annotated description
-> - Example code and diagrams (where appropriate)
-> - Key use cases and pros/cons
+> - A concise, annotated description
+> - Animated UML or explanatory diagram (where possible)
+> - Commented Java example
+> - Key use cases, pros & cons
 
 ---
 
 ## 🚀 How to Use
 
-1. Pick the pattern you wish to explore
-2. Enter its folder for code and docs
-3. Review both the comments and visual aids
-4. Copy/adapt solutions for your own project
+<ol>
+  <li>Pick the pattern you wish to explore</li>
+  <li>Go to its folder for code and docs</li>
+  <li>Review code comments and visuals</li>
+  <li>Run, experiment or adapt for your own project</li>
+</ol>
 
 ---
 
 ## 💡 About Design Patterns
 
-Design patterns are proven solutions to recurring software design problems.  
-Mastering them:
-- Improves code reuse
-- Facilitates team collaboration
-- Elevates software architecture skills
+Design patterns are time-tested solutions to recurring software design problems.<br>
+Mastering them helps to:
+- Increase code reuse and clarity
+- Facilitate team communication
+- Build scalable, robust software architecture
 
 ---
 
@@ -71,7 +76,9 @@ Mastering them:
 
 <p align="center">
   <b>Simone Remoli</b> <br>
-  <a href="https://github.com/SimoneRemoli"><img src="https://github.com/user-attachments/assets/719f94c7-0df5-4fea-ae47-1c34bb4a4bb4" width="64" style="border-radius: 50%;" /></a>
+  <a href="https://github.com/SimoneRemoli">
+    <img src="https://github.com/user-attachments/assets/719f94c7-0df5-4fea-ae47-1c34bb4a4bb4" width="80" style="border-radius: 50%; box-shadow: 0px 3px 24px #5554;" alt="profile picture"/>
+  </a>
 </p>
 
 ---
