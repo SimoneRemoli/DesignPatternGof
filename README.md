@@ -34,7 +34,7 @@
 
 
 
-<img width="531" height="555" alt="Screenshot 2025-11-16 alle 15 05 16" src="https://github.com/user-attachments/assets/9ca02caf-3716-4922-8c87-fc1acf17fba2" />
+<img width="531" align="center" height="555" alt="Screenshot 2025-11-16 alle 15 05 16" src="https://github.com/user-attachments/assets/9ca02caf-3716-4922-8c87-fc1acf17fba2" />
 
 
 
