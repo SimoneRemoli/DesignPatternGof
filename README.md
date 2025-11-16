@@ -6,7 +6,6 @@
 <p align="center">
   <strong>A curated showcase of classic software design patterns</strong>
   <br>
- 
   <br>
   Real-world, commented code samples and concise explanations.<br>
   <br>
@@ -31,38 +30,23 @@
 </p>
 <br>
 
-
-
-
 <h2 align="center">Patterns in this Repository</h2>
 
 <p align="center">
   <img width="350" src="https://github.com/user-attachments/assets/9ca02caf-3716-4922-8c87-fc1acf17fba2" alt="Design Patterns Gallery"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📖 Patterns Included
 
 | Pattern              | Folder / Link                            | Brief Description                           | Demo/UML Visual |
 |----------------------|------------------------------------------|---------------------------------------------|-----------------|
-| **Singleton**        | [Singleton](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Singleton)                | Ensure a class has only one instance.       | ![Singleton UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Singleton.png) |
-| **Factory Method**   | [FactoryMethod](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/FactoryMethod)         | Defer instantiation to subclasses.          | ![Factory UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Factory_Method.png) |
-| **Abstract Factory** | [AbstractFactory](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/AbstractFactory)     | Create families of related objects.         | ![Abstract Factory UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Abstract_Factory.png) |
-| **Adapter**          | [Adapter](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Adapter)                     | Convert one interface to another.           | ![Adapter UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Adapter.png) |
-| **Decorator**        | [Decorator](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Decorator)                 | Add behaviors to objects dynamically.       | ![Decorator UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Decorator.png) |
-| **Observer**         | [Observer](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Observer)                   | Notify objects automatically of changes.    | ![Observer UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Observer.png) |
-| **Facade**           | [Facade](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Facade)                       | Simplify complex subsystems.                | ![Facade UML](https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Facade.png) |
+| **Singleton**        | [Singleton](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Singleton)                | Ensure a class has only one instance.       | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Singleton.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Factory Method**   | [FactoryMethod](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/FactoryMethod)         | Defer instantiation to subclasses.          | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Factory_Method.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Abstract Factory** | [AbstractFactory](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/AbstractFactory)     | Create families of related objects.         | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Abstract_Factory.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Adapter**          | [Adapter](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Adapter)                     | Convert one interface to another.           | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Adapter.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Decorator**        | [Decorator](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Decorator)                 | Add behaviors to objects dynamically.       | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Decorator.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Observer**         | [Observer](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Observer)                   | Notify objects automatically of changes.    | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Observer.png?raw=true" width="90" style="border-radius:12px"/> |
+| **Facade**           | [Facade](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Facade)                       | Simplify complex subsystems.                | <img src="https://github.com/SimoneRemoli/DesignPatternGof/blob/main/src/UML/Facade.png?raw=true" width="90" style="border-radius:12px"/> |
 
 > Each pattern directory contains:
 > - A concise, annotated description
@@ -95,12 +79,22 @@ Mastering them helps to:
 
 ## 👤 Author
 
-<p align="center">
-  <b>Simone Remoli</b> <br>
-  <a href="https://github.com/SimoneRemoli">
-    <img src="https://github.com/user-attachments/assets/719f94c7-0df5-4fea-ae47-1c34bb4a4bb4" width="80" style="border-radius: 50%; box-shadow: 0px 3px 24px #5554;" alt="profile picture"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/719f94c7-0df5-4fea-ae47-1c34bb4a4bb4" width="100" style="border-radius: 50%; box-shadow: 0px 3px 24px #5554;" alt="Simone Remoli rounded profile"/>
+  <br/><br/>
+  <b>Simone Remoli</b><br/>
+  <a href="https://github.com/SimoneRemoli">github.com/SimoneRemoli</a>
+</div>
+
+---
+
+<div align="center">
+
+🇮🇹 <b>The documentation in this repository is written in Italian.</b> 🇮🇹
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" width="36" alt="Italian flag"/>
+
+</div>
 
 ---
 
