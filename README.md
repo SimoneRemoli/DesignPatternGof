@@ -56,7 +56,7 @@
 
 | Pattern              | Folder / Link                            | Brief Description                           | Demo/UML Visual |
 |----------------------|------------------------------------------|---------------------------------------------|-----------------|
-| **Singleton**        | [Singleton](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Singleton)                | Ensure a class has only one instance.       | ![Singleton UML](<img width="259" height="166" alt="Screenshot 2025-11-16 alle 15 10 35" src="https://github.com/user-attachments/assets/b6493c15-f13e-42b0-bb66-5e1dee7f64c9" />) |
+| **Singleton**        | [Singleton](https://github.com/SimoneRemoli/DesignPatternGof/tree/main/src/Singleton)                | Ensure a class has only one instance.       | ![Singleton UML]() |
 | **Factory Method**   | [FactoryMethod](./FactoryMethod)         | Defer instantiation to subclasses.          | ![Factory UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/factory-method/factory-method-java-example.png) |
 | **Abstract Factory** | [AbstractFactory](./AbstractFactory)     | Create families of related objects.         | ![Abstract Factory UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/abstract-factory/abstract-factory-java-example.png) |
 | **Adapter**          | [Adapter](./Adapter)                     | Convert one interface to another.           | ![Adapter UML](https://raw.githubusercontent.com/RefactoringGuru/design-patterns-demo/master/patterns/java/adapter/adapter-java-example.png) |
