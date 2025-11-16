@@ -6,7 +6,7 @@
 <p align="center">
   <strong>A curated showcase of classic software design patterns</strong>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=800&color=41B883&vCenter=true&width=435&lines=Clean+implementations;+Real-world+examples;+Quick+concepts+and+UMLs;Level+up+your+OO+design!" alt="Dynamic Typing Text Animation"/>
+ 
   <br>
   Real-world, commented code samples and concise explanations.<br>
   <br>
