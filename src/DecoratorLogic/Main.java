@@ -11,6 +11,9 @@ public class Main {
                         )
                 );
 
+        System.out.println(c.dress_code()); //stampa lo stato attuale, non torna una stringa fissa
+        //pertanto, la stampa va assegnata a una variabile di tipo DressCode.
+
         DressCode result = c.dress_code(); //cambia il result in base alle chiamate
 
         /*
